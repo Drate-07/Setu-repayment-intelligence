@@ -1,5 +1,7 @@
 # SETU
 
+🔗 **Live demo:** https://setu-repayment-intelligence.streamlit.app/
+
 **SETU** ("bridge" in Hindi/Sanskrit) is a prototype for **dynamic microloan
 repayment and cash-flow planning**, built for borrowers with irregular
 income — farmers, market vendors, gig workers — who are underserved by
