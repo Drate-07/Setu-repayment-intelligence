@@ -1,5 +1,7 @@
 # SETU
 
+"SETU" here is an independent hackathon codename (Hindi/Sanskrit for "bridge") — no affiliation with Setu, the payments-API company.
+
 🔗 **Live demo:** https://setu-repayment-intelligence.streamlit.app/
 
 **SETU** ("bridge" in Hindi/Sanskrit) is a prototype for **dynamic microloan
